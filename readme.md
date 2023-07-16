@@ -9,17 +9,17 @@ seus efeitos no código, suas eventuais relações com os ditos *code smells* de
 
 ### Características
 
-[Boas Interfaces](./boas_interfaces.md)
+[Boas Interfaces](./caracteristicas/caboas_interfaces.md)
 
-[Elegância](./elegancia.md)
+[Elegância](./caracteristicas/elegancia.md)
 
-[Extensibilidade](./extensibilidade.md)
+[Extensibilidade](./caracteristicas/extensibilidade.md)
 
-[Modularidade](./modularidade.md)
+[Modularidade](./caracteristicas/modularidade.md)
 
-[Portabilidade](./portabilidade.md)
+[Portabilidade](./caracteristicas/portabilidade.md)
 
-[Simplicidade](./simplicidade.md)
+[Simplicidade](./caracteristicas/simplicidade.md)
 
 
 ### Estudantes
