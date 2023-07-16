@@ -11,7 +11,7 @@ seus efeitos no código, suas eventuais relações com os ditos *code smells* de
 
 [Boas Interfaces](./boas_interfaces.md)
 
-[Elegância](./elegância.md)
+[Elegância](./elegancia.md)
 
 [Extensibilidade](./extensibilidade.md)
 
