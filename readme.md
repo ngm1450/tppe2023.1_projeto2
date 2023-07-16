@@ -9,7 +9,7 @@ seus efeitos no código, suas eventuais relações com os ditos *code smells* de
 
 ### Características
 
-[Boas Interfaces](boas_interfaces.md)
+[Boas Interfaces](./boas_interfaces.md)
 
 [Elegância](./elegância.md)
 
@@ -17,7 +17,7 @@ seus efeitos no código, suas eventuais relações com os ditos *code smells* de
 
 [Modularidade](./modularidade.md)
 
-[Portabilidade](./protabilidade.md)
+[Portabilidade](./portabilidade.md)
 
 [Simplicidade](./simplicidade.md)
 
