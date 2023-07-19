@@ -9,7 +9,7 @@ seus efeitos no código, suas eventuais relações com os ditos *code smells* de
 
 ### Características
 
-[Boas Interfaces](./caracteristicas/caboas_interfaces.md)
+[Boas Interfaces](./caracteristicas/boas_interfaces.md)
 
 [Elegância](./caracteristicas/elegancia.md)
 
